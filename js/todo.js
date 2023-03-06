@@ -23,6 +23,7 @@ function paintTodo(newTodo){
     span.innerText = newTodo.text;
     const button = document.createElement("button");
     button.innerText= "X";
+    button.id="btnX";
     button.addEventListener("click",deleteTodo);
     li.appendChild(span);
     li.appendChild(button);
@@ -52,8 +53,4 @@ if(savedTodos){
     const parsedTodos = JSON.parse(savedTodos);
     todos = parsedTodos;
     parsedTodos.forEach(paintTodo);
-}
-
-function sexyFilter(){
-     
 }
