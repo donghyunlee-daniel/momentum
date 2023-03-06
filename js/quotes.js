@@ -44,7 +44,7 @@ const quotes = [
     author:"Robert Louis Stevenson",
   },
   {
-    quotes:"The future belongs to those who believe in the beauty of their dreams.",
+    quote:"The future belongs to those who believe in the beauty of their dreams.",
     author:"Eleanor Roosevelt",
   },
   {
