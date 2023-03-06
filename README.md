@@ -1,2 +1,3 @@
 # momentum
-Cloning Momentum just for fun
+Cloning Momentum application
+Using Html & CSS
