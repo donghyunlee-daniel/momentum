@@ -1,3 +1,3 @@
 # momentum
 Cloning Momentum application
-Using Html & CSS
+Using Html, JavaScript and CSS
